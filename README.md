@@ -5,7 +5,13 @@ Credit card validator application with html as front-end and python as back-end.
 
 ## Objective
 
+The objective of this project is to implement a single web page for a credit card validation. The validation is performed accessing the back-end via API flask.
+
 ## Technologies
+
+Python - Back-end
+Flask - For API creation
+HTML - Front-end
 
 ## How to Run
 
