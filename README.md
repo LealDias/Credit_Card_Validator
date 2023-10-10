@@ -12,6 +12,7 @@ Credit card validator application with html as front-end and python as back-end.
 To run the project follow the steps below:
 
 1 - Run the "back.py" file to run the back-end server locally;
+![image](https://github.com/LealDias/Credit_Card_Validator/assets/70763447/6cf9e5fd-5168-414d-bc50-db56e0b29628)
 
 2 - Use http://127.0.0.1:5000/ to open the page 
 
