@@ -10,7 +10,9 @@ The objective of this project is to implement a single web page for a credit car
 ## Technologies
 
 Python - Back-end
+
 Flask - For API creation
+
 HTML - Front-end
 
 ## How to Run
