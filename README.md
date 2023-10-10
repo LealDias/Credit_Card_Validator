@@ -15,3 +15,12 @@ To run the project follow the steps below:
 
 2 - Use http://127.0.0.1:5000/ to open the page 
 
+## Output
+
+![image](https://github.com/LealDias/Credit_Card_Validator/assets/70763447/a36fa4a7-779a-4692-88f4-17a73aa81f5c)
+
+![image](https://github.com/LealDias/Credit_Card_Validator/assets/70763447/57c8379c-eaf8-4b71-8f07-5b494a92ed5f)
+
+![image](https://github.com/LealDias/Credit_Card_Validator/assets/70763447/8ec891c2-7350-4857-a45e-72128dc33172)
+
+
